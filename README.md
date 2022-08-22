@@ -12,7 +12,7 @@ dotnet restore</p>
 
 dotnet build</p>
 
-dotnet publish -o /app 
+dotnet publish -o ./app 
 
 sc create "Estudos-Service" binpath="caminho do executavel" (executar no cmd como ADM)
 
