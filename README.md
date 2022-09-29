@@ -1,5 +1,14 @@
 <h1 align="center"><strong>Executando aplicações ASP.NET Core como Windows Service</strong></h1>
 
+### ` 📚 Imagens`
+<p align="center">
+    <img src="/Img/worker.png" alt="Exemplo de tarefa executando em segundo plano" title="Exemplo de tarefa executando em segundo plano">
+</p> 
+
+<p align="center">
+    <img src="/Img/config.png" alt="Configuração para aplicação executar como windows service" title="Configuração para aplicação executar como windows service">
+</p> 
+
 ### ` 🔍 Sobre`
 
 <p align="justify">As vezes precisamos realizar tarefas de longa duração em segundo plano na nossa aplicação, e, além disso, também é necessário que elas executem como um serviço do windows. Felizmente, ASP.NET Core possibilita esse tipo de abordagem de forma bem simples.</p>
